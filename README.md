@@ -7,6 +7,10 @@
 </a>
 
 <p>
+  <a href="https://www.linkedin.com/in/alirazarizvi89"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-2C5364?style=flat-square" alt="Based in Dubai" />
   <img src="https://img.shields.io/badge/Experience-12%2B%20years-203A43?style=flat-square" alt="12+ years" />
   <img src="https://komarev.com/ghpvc/?username=alirazarizv&style=flat-square&color=0F2027&label=Profile%20views" alt="Profile views" />
