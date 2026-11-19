@@ -51,6 +51,12 @@ I focus on making IT **reliable, secure, scalable and useful to the business**, 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <br/>
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SharePoint" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <br/>
   <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -67,8 +73,8 @@ I focus on making IT **reliable, secure, scalable and useful to the business**, 
 <summary><b>⚙️ Business workflow automation</b></summary>
 <br/>
 
-- Integrated **WhatsApp workflows** using Meta APIs, Make, NetSuite and Twilio, supporting thousands of workflow interactions.
-- Connected **lead management** across Microsoft Lists, Mailchimp and NetSuite to improve data flow and follow-up.
+- Integrated **WhatsApp workflows** using Meta APIs, Make, NetSuite and Twilio — **~4,000–5,000 workflow executions**.
+- Connected **lead management** across Microsoft Lists, Mailchimp and NetSuite — **7,000+ leads/records** synced with less manual entry.
 - Built system integrations that cut manual work and connect business teams with operational data.
 
 </details>
@@ -79,7 +85,9 @@ I focus on making IT **reliable, secure, scalable and useful to the business**, 
 
 - Supported **hybrid infrastructure** spanning on-prem Windows Server, Active Directory, Microsoft 365 and Entra ID.
 - Implemented **NetSuite single sign-on** using Entra ID SAML.
-- Managed multi-site infrastructure and network segmentation, alongside endpoint and email-security platforms.
+- Modernizing **Windows Server 2019 → 2022** domain infrastructure and running **VMware ESXi** production and test environments.
+- Managed **multi-site HP Aruba networking** across the UAE, Morocco and China, with VLAN segmentation.
+- Run endpoint and email security with **Trend Micro, DLP, ManageEngine MDM and Microsoft Intune**.
 
 </details>
 
@@ -88,8 +96,19 @@ I focus on making IT **reliable, secure, scalable and useful to the business**, 
 <br/>
 
 - Developed a **Teams-based, role-aware assistant** concept using Azure OpenAI and Copilot technologies.
-- Built a **.NET parts finder** using recursive SQL queries over a large parts dataset.
-- Explored **RAG** and LLM application patterns for enterprise knowledge and data lookup.
+- Built a **.NET parts finder** using recursive SQL (CTE) queries — **~400,000 records, ~60 users**.
+- Explored **RAG** and LLM application patterns for enterprise knowledge and data lookup, including role-based access for Accounts, Sales and Purchase.
+- Run a **local AI lab** (Ollama, Qwen3-Coder, AnythingLLM, ChromaDB, Weaviate on Docker) for private assistants and coding experiments.
+
+</details>
+
+<details>
+<summary><b>📋 Business applications</b></summary>
+<br/>
+
+- Building an in-house **Performance Management System** on **Power Apps + SharePoint** — self-assessment, manager review, ratings and final outcomes.
+- Built custom **NetSuite browser extensions** and SuiteScript customizations to improve day-to-day ERP usability.
+- Worked on **customer master-data deduplication and merging** in NetSuite to improve ERP data quality.
 
 </details>
 
@@ -97,7 +116,7 @@ I focus on making IT **reliable, secure, scalable and useful to the business**, 
 <summary><b>🏭 Operations integrations</b></summary>
 <br/>
 
-- Integrated **ZKTeco FaceID** attendance data with ERP processes for employee attendance tracking.
+- Integrated **ZKTeco FaceID** attendance data with ERP processes — **80+ employees** tracked automatically.
 - Worked on **WMS** and business-system integrations across operational environments.
 
 </details>
@@ -116,6 +135,9 @@ I use GitHub to evaluate and build on open-source AI tooling and automation plat
 | [openclaw](https://github.com/alirazarizv/openclaw) · [pico-claw](https://github.com/alirazarizv/pico-claw) | Personal AI assistants |
 | [awesome-llm-apps](https://github.com/alirazarizv/awesome-llm-apps) | LLM apps, agents & RAG examples |
 | [scrapling](https://github.com/alirazarizv/scrapling) | Adaptive web scraping |
+| [screenpipe](https://github.com/alirazarizv/screenpipe) | Local screen & audio context for AI |
+| [postiz-app](https://github.com/alirazarizv/postiz-app) | Self-hosted social media scheduling |
+| [generative-ai-for-beginners](https://github.com/alirazarizv/generative-ai-for-beginners) | Generative AI learning path |
 
 ---
 
